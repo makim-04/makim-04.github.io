@@ -52,8 +52,10 @@
 .menubox a {
   text-decoration: none;
   color: black;
+  font-weight: normal;
+}
+.menubox a .active {
   font-weight: bold;
-  margin-right: 20px;
 }
 .home {   
   	align-self: stretch;
