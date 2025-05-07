@@ -51,11 +51,8 @@
 }
 .menubox a {
   text-decoration: none;
-  color: black;
+  font-color: inherit;
   font-weight: normal;
-}
-.menubox a .active {
-  font-weight: bold;
 }
 .home {   
   	align-self: stretch;
@@ -63,6 +60,9 @@
   	position: relative;
   	line-height: 120%;
   	display: flex;
+    font-family: Pretendard;
+    color: #9fa2ae;
+    text-align: center;
   	align-items: center;
   	justify-content: center;
   	overflow: hidden;
@@ -77,6 +77,9 @@
   	position: relative;
   	line-height: 120%;
   	display: flex;
+    font-family: Pretendard;
+    color: #9fa2ae;
+    text-align: center;
   	align-items: center;
   	justify-content: center;
   	overflow: hidden;
@@ -91,7 +94,9 @@
   	position: relative;
   	line-height: 120%;
   	display: flex;
+    font-family: Pretendard;
   	color: #231f20;
+    text-align: center;
   	align-items: center;
   	justify-content: center;
   	overflow: hidden;
@@ -106,6 +111,9 @@
   	position: relative;
   	line-height: 120%;
   	display: flex;
+    font-family: Pretendard;
+    color: #9fa2ae;
+    text-align: center;
   	align-items: center;
   	justify-content: center;
   	overflow: hidden;
