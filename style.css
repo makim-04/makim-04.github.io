@@ -50,6 +50,8 @@
   	padding: 0px 0px 0px 17px;
 }
 .home {
+    text-decoration: none;
+    color: inherit;
   	align-self: stretch;
   	width: 34px;
   	position: relative;
@@ -64,6 +66,8 @@
   	min-width: 33px;
 }
 .products {
+    text-decoration: none;
+    color: inherit;
   	align-self: stretch;
   	width: 52px;
   	position: relative;
@@ -78,6 +82,8 @@
   	min-width: 50px;
 }
 .news {
+    text-decoration: none;
+    color: inherit;
   	align-self: stretch;
   	width: 32px;
   	position: relative;
@@ -93,6 +99,8 @@
   	min-width: 31px;
 }
 .our-partners {
+    text-decoration: none;
+    color: inherit;
   	align-self: stretch;
   	width: 73px;
   	position: relative;
@@ -105,10 +113,6 @@
   	white-space: nowrap;
   	flex-shrink: 0;
   	min-width: 72px;
-}
-.menubox {
-    text-decoration: none;
-    color: inherit;
 }
 .menubox {
   	width: 100%;
