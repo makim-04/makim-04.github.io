@@ -53,6 +53,12 @@
   	justify-content: flex-start;
   	padding: 0px 0px 0px 17px;
 }
+.menubox a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin-right: 20px;
+}
 .home {
   	align-self: stretch;
   	width: 34px;
