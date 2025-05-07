@@ -1,7 +1,3 @@
-.a{
-    text-decoration: none;
-    color: inherit;
-}
 .component-1-child {
   	position: absolute;
   	height: 100%;
@@ -109,6 +105,10 @@
   	white-space: nowrap;
   	flex-shrink: 0;
   	min-width: 72px;
+}
+.menubox {
+    text-decoration: none;
+    color: inherit;
 }
 .menubox {
   	width: 100%;
