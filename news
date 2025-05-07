@@ -1,794 +1,696 @@
+.component-1-child {
+  	position: absolute;
+  	height: 100%;
+  	width: 20.91%;
+  	top: 0%;
+  	right: 79.09%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.union-icon {
+  	position: absolute;
+  	height: 71.82%;
+  	width: 71.26%;
+  	top: 25.52%;
+  	right: 0.01%;
+  	bottom: 2.66%;
+  	left: 28.73%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-1 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 42.8px);
+  	width: 85.6px;
+  	height: 22px;
+}
+.component-1-wrapper {
+  	position: absolute;
+  	top: 7.76px;
+  	left: calc(50% - 42.52px);
+  	width: 85.6px;
+  	height: 22px;
+}
+.logo1 {
+  	width: 113.4px;
+  	position: relative;
+  	height: 37.5px;
+}
+.logo {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 0px 0px 0px 17px;
+}
+.home {
+  	align-self: stretch;
+  	width: 34px;
+  	position: relative;
+  	line-height: 120%;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+  	flex-shrink: 0;
+  	min-width: 33px;
+}
+.products {
+  	align-self: stretch;
+  	width: 52px;
+  	position: relative;
+  	line-height: 120%;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+  	flex-shrink: 0;
+  	min-width: 50px;
+}
+.news {
+  	align-self: stretch;
+  	width: 32px;
+  	position: relative;
+  	line-height: 120%;
+  	display: flex;
+  	color: #231f20;
+  	align-items: center;
+  	justify-content: center;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+  	flex-shrink: 0;
+  	min-width: 31px;
+}
+.our-partners {
+  	align-self: stretch;
+  	width: 73px;
+  	position: relative;
+  	line-height: 120%;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	overflow: hidden;
+  	text-overflow: ellipsis;
+  	white-space: nowrap;
+  	flex-shrink: 0;
+  	min-width: 72px;
+}
+.menubox {
+  	width: 100%;
+  	border-radius: 63.55px;
+  	background-color: #fff;
+  	height: 38px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px 24px;
+  	box-sizing: border-box;
+  	gap: 20px;
+  	min-width: 284px;
+  	max-width: 327px;
+  	max-height: 38px;
+}
+.menubox-wrapper {
+  	flex: 1;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 0px 16px;
+}
+.en {
+  	position: relative;
+  	line-height: 120%;
+}
+.button-lang {
+  	width: 49px;
+  	border-radius: 84.02px;
+  	border: 0.8px solid #231f20;
+  	box-sizing: border-box;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 10.1px 23.5px;
+}
+.become-a-client {
+  	position: relative;
+  	line-height: 120%;
+  	display: inline-block;
+  	min-width: 86px;
+}
+.icon- {
+  	width: 20px;
+  	position: relative;
+  	height: 20px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.button-client {
+  	border-radius: 84.02px;
+  	background-color: #fff;
+  	height: 36px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px 24px;
+  	box-sizing: border-box;
+  	gap: 4px;
+}
+.button {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-end;
+  	gap: 16px;
+  	text-align: left;
+  	color: #231f20;
+}
+.header {
+  	position: absolute;
+  	width: 98.89%;
+  	top: 35px;
+  	right: 1.11%;
+  	left: 0%;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: space-between;
+  	gap: 0px;
+}
+.header-wrapper {
+  	width: 100%;
+  	position: relative;
+  	backdrop-filter: blur(20px);
+  	background: linear-gradient(180deg, #f4f4f8 50%, rgba(244, 244, 248, 0));
+  	height: 100px;
+  	max-width: 1440px;
+  	text-align: center;
+}
+.cardtitle {
+  	position: relative;
+  	letter-spacing: -0.02em;
+  	line-height: 120%;
+  	text-transform: uppercase;
+  	font-weight: 800;
+}
+.weblargetitle {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 36px;
+  	letter-spacing: -0.02em;
+  	line-height: 140%;
+  	font-weight: 800;
+  	color: #231f20;
+}
+.title {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 24px;
+}
+.image-icon {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.line {
+  	position: relative;
+  	font-family: AppleSDGothicNeoM00;
+}
+.text {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 4px;
+}
+.news-headline {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 18px;
+  	letter-spacing: -0.02em;
+  	line-height: 120%;
+  	font-weight: 800;
+  	font-family: 'NanumSquare Neo';
+  	color: #2d2d2d;
+  	display: inline-block;
+  	height: 44px;
+  	flex-shrink: 0;
+}
+.textbox {
+  	align-self: stretch;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	padding: 16px 24px;
+  	gap: 8px;
+}
+.cardnews {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 399px;
+  	height: 404px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+}
+.cardpc {
+  	width: 399px;
+  	position: relative;
+  	box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.1);
+  	border-radius: 31.25px;
+  	background-color: #fff;
+  	border: 1px solid #e4e6ed;
+  	box-sizing: border-box;
+  	height: 404px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.news1 {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: center;
+  	flex-wrap: wrap;
+  	align-content: flex-start;
+  	gap: 56px 20px;
+  	font-size: 14px;
+  	color: #5f6275;
+  	font-family: Pretendard;
+}
+.button-request-demo {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 128.65px);
+  	border-radius: 84.02px;
+  	width: 36px;
+  	height: 36px;
+  	object-fit: contain;
+}
+.button-request-demo1 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% + 92.6px);
+  	border-radius: 84.02px;
+  	width: 36px;
+  	height: 36px;
+}
+.button-request-demo2 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 174.4px);
+  	border-radius: 84.02px;
+  	width: 36px;
+  	height: 36px;
+  	object-fit: contain;
+}
+.button-request-demo3 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% + 138.35px);
+  	border-radius: 84.02px;
+  	width: 36px;
+  	height: 36px;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 18px);
+  	border-radius: 50%;
+  	background-color: #e4e6ed;
+  	width: 36px;
+  	height: 36px;
+}
+.div {
+  	position: absolute;
+  	top: 9px;
+  	left: calc(50% - 2px);
+  	letter-spacing: -0.02em;
+  	line-height: 120%;
+}
+.ellipse-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 80.53px);
+  	width: 36px;
+  	height: 36px;
+}
+.group-item {
+  	position: absolute;
+  	top: -9px;
+  	left: -15px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 36px;
+  	height: 36px;
+  	display: none;
+}
+.div1 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 3.5px);
+  	letter-spacing: -0.02em;
+  	line-height: 120%;
+}
+.ellipse-group {
+  	position: absolute;
+  	top: 9px;
+  	left: 150.38px;
+  	width: 7px;
+  	height: 16px;
+}
+.ellipse-container {
+  	position: absolute;
+  	top: 9px;
+  	left: 191.88px;
+  	width: 7px;
+  	height: 16px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: -9px;
+  	left: -14px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 36px;
+  	height: 36px;
+  	display: none;
+}
+.div3 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 4px);
+  	letter-spacing: -0.02em;
+  	line-height: 120%;
+}
+.group-div {
+  	position: absolute;
+  	top: 9px;
+  	left: 232.38px;
+  	width: 8px;
+  	height: 16px;
+}
+.page1 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 174px);
+  	width: 348.8px;
+  	height: 36px;
+}
+.page {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+  	overflow: hidden;
+}
+.iconbox {
+  	width: 24px;
+  	position: relative;
+  	height: 24px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+}
+.basicbutton {
+  	border-radius: 24px;
+  	background-color: #231f20;
+  	height: 40px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 8px;
+  	box-sizing: border-box;
+}
+.pagebar {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: space-between;
+  	gap: 0px;
+  	text-align: center;
+  	font-size: 13px;
+  	color: #231f20;
+  	font-family: AppleSDGothicNeoB00;
+}
+.title-parent {
+  	width: 100%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 88px;
+  	max-width: 1240px;
+}
+.container {
+  	flex: 1;
+  	border-radius: 36px;
+  	background-color: #fff;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 108px 83px 88px;
+}
+.container-wrapper {
+  	width: 100%;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: center;
+  	padding: 0px 17px 236px;
+  	box-sizing: border-box;
+  	max-width: 1440px;
+  	font-size: 16px;
+  	color: #2d2d2d;
+  	font-family: 'NanumSquare Neo';
+}
+.component-1-item {
+  	position: absolute;
+  	height: 100%;
+  	width: 20.93%;
+  	top: 0%;
+  	right: 79.07%;
+  	bottom: 0%;
+  	left: 0%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.union-icon1 {
+  	position: absolute;
+  	height: 71.7%;
+  	width: 71.3%;
+  	top: 25.48%;
+  	right: -0.01%;
+  	bottom: 2.82%;
+  	left: 28.71%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.component-11 {
+  	position: absolute;
+  	top: 0px;
+  	left: calc(50% - 60.45px);
+  	width: 120.9px;
+  	height: 31.1px;
+}
+.component-1-container {
+  	position: absolute;
+  	top: 10.95px;
+  	left: calc(50% - 59.93px);
+  	width: 120.9px;
+  	height: 31.1px;
+}
+.logo3 {
+  	width: 119px;
+  	position: relative;
+  	height: 53px;
+}
+.logo2 {
+  	width: 100%;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	max-width: 1240px;
+}
+.iconbox1 {
+  	width: 24px;
+  	position: relative;
+  	height: 24px;
+  	overflow: hidden;
+  	flex-shrink: 0;
+  	object-fit: contain;
+}
+.text12 {
+  	flex: 1;
+  	position: relative;
+  	line-height: 120%;
+  	display: inline-block;
+  	min-width: 128px;
+}
+.icontext1 {
+  	align-self: stretch;
+  	height: 24px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 16px;
+}
+.p {
+  	margin: 0;
+}
+.icontext3 {
+  	align-self: stretch;
+  	height: 48px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 16px;
+}
+.icontext {
+  	width: 295px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	gap: 16px;
+}
+.maps-location {
+  	position: absolute;
+  	width: 100%;
+  	top: 0px;
+  	left: 0%;
+  	letter-spacing: -0.02em;
+  	line-height: 180%;
+  	font-weight: 600;
+  	display: inline-block;
+}
+.image-3-icon {
+  	position: absolute;
+  	width: 100%;
+  	top: 41px;
+  	right: 0%;
+  	left: 0%;
+  	border-radius: 24px;
+  	max-width: 100%;
+  	overflow: hidden;
+  	height: 261px;
+  	object-fit: cover;
+}
+.map {
+  	flex: 1;
+  	position: relative;
+  	height: 302px;
+  	font-size: 16px;
+}
+.icontext-parent {
+  	width: 100%;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: flex-start;
+  	justify-content: flex-start;
+  	flex-wrap: wrap;
+  	align-content: flex-start;
+  	gap: 33px;
+  	max-width: 1240px;
+}
+.contents {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	padding: 112px 100px;
+  	gap: 33px;
+}
+.contact {
+  	align-self: stretch;
+  	background-color: #231f20;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+}
+.copyright-billycrew-all {
+  	align-self: stretch;
+  	flex: 1;
+  	position: relative;
+  	letter-spacing: -0.02em;
+  	line-height: 180%;
+  	font-weight: 500;
+  	display: flex;
+  	align-items: center;
+  	max-width: 1240px;
+}
+.copyright {
+  	align-self: stretch;
+  	background-color: #231f20;
+  	height: 69px;
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: center;
+  	padding: 24px 96px;
+  	box-sizing: border-box;
+  	font-size: 16px;
+}
+.footer {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 14px;
+  	color: #fff;
+}
+.mid1440-design-news-list {
+  	width: 100%;
+  	position: relative;
+  	background-color: #f4f4f8;
+  	overflow: hidden;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	min-width: 390px;
+  	max-width: 1920px;
+  	text-align: left;
+  	font-size: 12px;
+  	color: #9fa2ae;
+  	font-family: Pretendard;
+}
 
-
-<div style="width: 100%; height: 100%; background: var(--Background, #F4F4F8); overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-    <div style="width: 100%; height: 100px; max-width: 1440px; position: relative; background: linear-gradient(180deg, #F4F4F8 50%, rgba(244, 244, 248, 0) 100%); backdrop-filter: blur(10px)">
-        <div style="width: 1424px; left: 0px; top: 35px; position: absolute; justify-content: space-between; align-items: center; display: inline-flex">
-            <div style="align-self: stretch; padding-left: 17px; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                <div style="width: 113.36px; height: 37.50px; position: relative">
-                    <div style="width: 85.64px; height: 22.04px; left: 14.18px; top: 7.76px; position: absolute">
-                        <div style="width: 17.95px; height: 22.04px; left: 0px; top: 0px; position: absolute; background: #FED404"></div>
-                        <div style="width: 13.46px; height: 17.63px; left: 2.25px; top: 2.20px; position: absolute; background: #231916; border: 0.71px black solid"></div>
-                        <div style="width: 61.04px; height: 15.80px; left: 24.59px; top: 5.61px; position: absolute; background: var(--brandcolor_black, #231916)"></div>
-                    </div>
-                </div>
-            </div>
-            <div style="flex: 1 1 0; padding-left: 16px; padding-right: 16px; flex-direction: column; justify-content: flex-start; align-items: center; display: inline-flex">
-                <div style="width: 100%; height: 38px; max-width: 327px; min-width: 284px; max-height: 38px; padding-left: 24px; padding-right: 24px; padding-top: 8px; padding-bottom: 8px; background: var(--White, white); overflow: hidden; border-radius: 63.55px; justify-content: center; align-items: center; gap: 20px; display: inline-flex">
-                    <div style="width: 34px; align-self: stretch; min-width: 33px; text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--DarkGray2, #9FA2AE); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">Home</div>
-                    <div style="width: 52px; align-self: stretch; min-width: 50px; text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--DarkGray2, #9FA2AE); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">Products</div>
-                    <div style="width: 32px; align-self: stretch; min-width: 31px; text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--Black, #231F20); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">News</div>
-                    <div style="width: 73px; align-self: stretch; min-width: 72px; text-align: center; justify-content: center; display: flex; flex-direction: column; color: var(--DarkGray2, #9FA2AE); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">Our Partners</div>
-                </div>
-            </div>
-            <div style="justify-content: flex-end; align-items: center; gap: 16px; display: flex">
-                <div style="width: 49px; height: 36px; padding-left: 23.52px; padding-right: 23.52px; padding-top: 10.08px; padding-bottom: 10.08px; border-radius: 84.02px; outline: 0.84px var(--Black, #231F20) solid; outline-offset: -0.84px; justify-content: center; align-items: center; gap: 4.20px; display: flex">
-                    <div style="color: var(--Black, #231F20); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">En</div>
-                </div>
-                <div style="height: 36px; padding-left: 24px; padding-right: 24px; padding-top: 8px; padding-bottom: 8px; background: var(--White, white); border-radius: 84.02px; justify-content: center; align-items: center; gap: 4px; display: flex">
-                    <div style="min-width: 86px; color: var(--Black, #231F20); font-size: 12px; font-family: Pretendard; font-weight: 700; line-height: 14.40px; word-wrap: break-word">Become a Client</div>
-                    <div style="width: 20px; height: 20px; position: relative; overflow: hidden">
-                        <div style="width: 14px; height: 1px; left: 10.50px; top: 3px; position: absolute; transform: rotate(90deg); transform-origin: top left; background: var(--Black, #231F20); border-radius: 2px"></div>
-                        <div style="width: 14px; height: 1px; left: 17px; top: 10.50px; position: absolute; transform: rotate(-180deg); transform-origin: top left; background: var(--Black, #231F20); border-radius: 2px"></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div style="width: 100%; max-width: 1440px; padding-bottom: 236px; padding-left: 17px; padding-right: 17px; justify-content: center; align-items: flex-start; gap: 10px; display: inline-flex">
-        <div style="flex: 1 1 0; padding-top: 108px; padding-bottom: 88px; padding-left: 83px; padding-right: 83px; background: var(--White, white); border-radius: 36px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
-            <div style="width: 100%; max-width: 1240px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 88px; display: flex">
-                <div style="align-self: stretch; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 24px; display: flex">
-                    <div style="justify-content: center; display: flex; flex-direction: column; color: #2D2D2D; font-size: 16px; font-family: NanumSquare Neo; font-weight: 900; text-transform: uppercase; line-height: 19.20px; word-wrap: break-word">NEWS</div>
-                    <div style="align-self: stretch; color: var(--Black, #231F20); font-size: 36px; font-family: NanumSquare Neo; font-weight: 800; line-height: 50.40px; word-wrap: break-word">빌리크루의 새로운 소식</div>
-                </div>
-                <div style="align-self: stretch; justify-content: center; align-items: flex-start; gap: 20px; display: inline-flex; flex-wrap: wrap; align-content: flex-start">
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div style="width: 399px; height: 404px; position: relative; background: white; box-shadow: 0px 16px 40px -16px rgba(2, 43, 71, 0.10); overflow: hidden; border-radius: 31.25px; outline: 1px var(--LightGray, #E4E6ED) solid; outline-offset: -1px">
-                        <div style="width: 399px; height: 404px; left: 0px; top: 0px; position: absolute; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: inline-flex">
-                            <div style="width: 399px; height: 302px; background: #D9D9D9; border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="width: 399px; height: 302px; mix-blend-mode: multiply; background: linear-gradient(180deg, rgba(228.02, 229.54, 237.10, 0) 0%, #E4E6ED 100%); border-top-left-radius: 32px; border-top-right-radius: 32px"></div>
-                            <div style="align-self: stretch; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; background: white; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
-                                <div style="align-self: stretch; justify-content: flex-start; align-items: flex-start; gap: 4px; display: inline-flex">
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">2000-00-00</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: AppleSDGothicNeoM00; font-weight: 400; word-wrap: break-word">|</div>
-                                    <div style="color: var(--DarkGray, #5F6275); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">Billycash</div>
-                                </div>
-                                <div style="align-self: stretch; height: 44px; color: #2D2D2D; font-size: 18px; font-family: NanumSquare Neo; font-weight: 800; line-height: 21.60px; word-wrap: break-word">News Headline </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div style="align-self: stretch; justify-content: space-between; align-items: flex-start; display: inline-flex">
-                    <div style="flex: 1 1 0; align-self: stretch; position: relative; overflow: hidden">
-                        <div style="width: 36px; height: 36px; padding-left: 23.52px; padding-right: 23.52px; padding-top: 10.08px; padding-bottom: 10.08px; left: 507.75px; top: 36px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: var(--Black, #231F20); border-radius: 84.02px; justify-content: center; align-items: center; gap: 4.20px; display: inline-flex"></div>
-                        <div style="width: 36px; height: 36px; padding-left: 23.52px; padding-right: 23.52px; padding-top: 10.08px; padding-bottom: 10.08px; left: 693px; top: 0px; position: absolute; background: var(--Black, #231F20); border-radius: 84.02px; justify-content: center; align-items: center; gap: 4.20px; display: inline-flex"></div>
-                        <div style="width: 36px; height: 36px; padding-left: 23.52px; padding-right: 23.52px; padding-top: 10.08px; padding-bottom: 10.08px; left: 462px; top: 36px; position: absolute; transform: rotate(180deg); transform-origin: top left; background: var(--Black, #231F20); border-radius: 84.02px; justify-content: center; align-items: center; gap: 4.20px; display: inline-flex"></div>
-                        <div style="width: 36px; height: 36px; padding-left: 23.52px; padding-right: 23.52px; padding-top: 10.08px; padding-bottom: 10.08px; left: 738.75px; top: 0px; position: absolute; background: var(--Black, #231F20); border-radius: 84.02px; justify-content: center; align-items: center; gap: 4.20px; display: inline-flex"></div>
-                        <div style="width: 36px; height: 36px; left: 519.88px; top: 0px; position: absolute; background: var(--LightGray, #E4E6ED); border-radius: 9999px"></div>
-                        <div style="left: 535.88px; top: 9px; position: absolute; text-align: center; color: var(--Black, #231F20); font-size: 13px; font-family: AppleSDGothicNeoB00; font-weight: 400; line-height: 15.60px; word-wrap: break-word">1</div>
-                        <div style="left: 576.38px; top: 9px; position: absolute; text-align: center; color: var(--Black, #231F20); font-size: 13px; font-family: AppleSDGothicNeoB00; font-weight: 400; line-height: 15.60px; word-wrap: break-word">2</div>
-                        <div style="left: 617.88px; top: 9px; position: absolute; text-align: center; color: var(--Black, #231F20); font-size: 13px; font-family: AppleSDGothicNeoB00; font-weight: 400; line-height: 15.60px; word-wrap: break-word">3</div>
-                        <div style="left: 658.38px; top: 9px; position: absolute; text-align: center; color: var(--Black, #231F20); font-size: 13px; font-family: AppleSDGothicNeoB00; font-weight: 400; line-height: 15.60px; word-wrap: break-word">4</div>
-                    </div>
-                    <div data-property-1="icon" style="height: 40px; padding: 8px; background: var(--Black, #231F20); border-radius: 24px; justify-content: center; align-items: center; gap: 4px; display: flex">
-                        <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
-                            <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
-                                <div style="width: 8px; height: 4px; left: 8px; top: 10px; position: absolute; outline: 1.50px white solid; outline-offset: -0.75px"></div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: center; display: flex">
-        <div style="align-self: stretch; background: var(--Black, #231F20); overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: center; gap: 10px; display: flex">
-            <div style="align-self: stretch; padding-left: 100px; padding-right: 100px; padding-top: 112px; padding-bottom: 112px; flex-direction: column; justify-content: flex-start; align-items: center; gap: 33px; display: flex">
-                <div style="width: 100%; max-width: 1240px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
-                    <div style="width: 119px; height: 53px; position: relative">
-                        <div style="width: 120.87px; height: 31.11px; left: -0.43px; top: 10.95px; position: absolute">
-                            <div style="width: 25.33px; height: 31.11px; left: 0px; top: 0px; position: absolute; background: #FED404"></div>
-                            <div style="width: 19px; height: 24.88px; left: 3.17px; top: 3.11px; position: absolute; background: #231916; border: 1px black solid"></div>
-                            <div style="width: 86.16px; height: 22.29px; left: 34.71px; top: 7.92px; position: absolute; background: white"></div>
-                        </div>
-                    </div>
-                </div>
-                <div style="width: 100%; max-width: 1240px; justify-content: flex-start; align-items: flex-start; gap: 33px; display: inline-flex; flex-wrap: wrap; align-content: flex-start">
-                    <div style="width: 295px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-                        <div style="align-self: stretch; height: 24px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-                            <div style="width: 24px; height: 24px; position: relative; transform: rotate(180deg); transform-origin: top left; overflow: hidden">
-                                <div style="width: 24px; height: 24px; left: 0px; top: 0px; position: absolute; overflow: hidden">
-                                    <div style="width: 19.31px; height: 19.31px; left: 2.34px; top: 2.34px; position: absolute; background: var(--White, white)"></div>
-                                </div>
-                            </div>
-                            <div style="flex: 1 1 0; min-width: 128px; color: var(--White, white); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">02-6223-6003 </div>
-                        </div>
-                        <div style="align-self: stretch; height: 24px; justify-content: flex-start; align-items: center; gap: 16px; display: inline-flex">
-                            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
-                                <div style="width: 20.41px; height: 14.40px; left: 2.39px; top: 4.80px; position: absolute; background: var(--White, white)"></div>
-                            </div>
-                            <div style="flex: 1 1 0; min-width: 128px; color: var(--White, white); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">cs@billycrew.com</div>
-                        </div>
-                        <div style="align-self: stretch; height: 48px; justify-content: flex-start; align-items: flex-start; gap: 16px; display: inline-flex">
-                            <div style="width: 24px; height: 24px; position: relative; overflow: hidden">
-                                <div style="width: 14px; height: 19px; left: 5px; top: 3px; position: absolute; overflow: hidden">
-                                    <div style="width: 14px; height: 18.95px; left: 0px; top: 0px; position: absolute; background: var(--White, white)"></div>
-                                </div>
-                            </div>
-                            <div style="flex: 1 1 0; min-width: 128px; color: var(--White, white); font-size: 14px; font-family: Pretendard; font-weight: 400; line-height: 16.80px; word-wrap: break-word">서울시 영등포구 여의나루로 53-1,<br/>대오빌딩 505호</div>
-                        </div>
-                    </div>
-                    <div style="flex: 1 1 0; height: 302px; position: relative">
-                        <div style="width: 912px; left: 0px; top: 0px; position: absolute; color: var(--White, white); font-size: 16px; font-family: Pretendard; font-weight: 600; line-height: 28.80px; word-wrap: break-word">Maps Location</div>
-                        <img style="width: 912px; height: 261px; left: 0px; top: 41px; position: absolute; border-radius: 24px" src="https://placehold.co/912x261" />
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div style="align-self: stretch; height: 69px; padding-left: 96px; padding-right: 96px; padding-top: 24px; padding-bottom: 24px; background: var(--Black, #231F20); justify-content: center; align-items: center; gap: 947px; display: inline-flex">
-            <div style="flex: 1 1 0; align-self: stretch; max-width: 1240px; justify-content: center; display: flex; flex-direction: column; color: var(--White, white); font-size: 16px; font-family: Pretendard; font-weight: 500; line-height: 28.80px; word-wrap: break-word">Copyright billycrew. All right reserved.</div>
-        </div>
-    </div>
-</div>
-
-// Home
-color: var(--DarkGray2, #9FA2AE);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// Products
-color: var(--DarkGray2, #9FA2AE);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// News
-color: var(--Black, #231F20);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// Our Partners
-color: var(--DarkGray2, #9FA2AE);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// En
-color: var(--Black, #231F20);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// Become a Client
-color: var(--Black, #231F20);
- font-size: 12px;
- font-family: Pretendard;
- font-weight: 700;
- line-height: 14.40px;
- word-wrap: break-word
----
-// NEWS
-color: #2D2D2D;
- font-size: 16px;
- font-family: NanumSquare Neo;
- font-weight: 900;
- text-transform: uppercase;
- line-height: 19.20px;
- word-wrap: break-word
----
-// 빌리크루의 새로운 소식
-color: var(--Black, #231F20);
- font-size: 36px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 50.40px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 2000-00-00
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// |
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: AppleSDGothicNeoM00;
- font-weight: 400;
- word-wrap: break-word
----
-// Billycash
-color: var(--DarkGray, #5F6275);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// News Headline 
-color: #2D2D2D;
- font-size: 18px;
- font-family: NanumSquare Neo;
- font-weight: 800;
- line-height: 21.60px;
- word-wrap: break-word
----
-// 1
-color: var(--Black, #231F20);
- font-size: 13px;
- font-family: AppleSDGothicNeoB00;
- font-weight: 400;
- line-height: 15.60px;
- word-wrap: break-word
----
-// 2
-color: var(--Black, #231F20);
- font-size: 13px;
- font-family: AppleSDGothicNeoB00;
- font-weight: 400;
- line-height: 15.60px;
- word-wrap: break-word
----
-// 3
-color: var(--Black, #231F20);
- font-size: 13px;
- font-family: AppleSDGothicNeoB00;
- font-weight: 400;
- line-height: 15.60px;
- word-wrap: break-word
----
-// 4
-color: var(--Black, #231F20);
- font-size: 13px;
- font-family: AppleSDGothicNeoB00;
- font-weight: 400;
- line-height: 15.60px;
- word-wrap: break-word
----
-// 02-6223-6003 
-color: var(--White, white);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// cs@billycrew.com
-color: var(--White, white);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// 서울시 영등포구 여의나루로 53-1,<br/>대오빌딩 505호
-color: var(--White, white);
- font-size: 14px;
- font-family: Pretendard;
- font-weight: 400;
- line-height: 16.80px;
- word-wrap: break-word
----
-// Maps Location
-color: var(--White, white);
- font-size: 16px;
- font-family: Pretendard;
- font-weight: 600;
- line-height: 28.80px;
- word-wrap: break-word
----
-// Copyright billycrew. All right reserved.
-color: var(--White, white);
- font-size: 16px;
- font-family: Pretendard;
- font-weight: 500;
- line-height: 28.80px;
- word-wrap: break-word
