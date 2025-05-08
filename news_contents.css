@@ -51,7 +51,7 @@
 }
 .menubox a {
 	text-decoration: none;
-	font-color: inherit;
+	
 	font-weight: normal;
   }
 .home {
@@ -723,4 +723,3 @@
   	color: #9fa2ae;
   	font-family: Pretendard;
 }
-
